@@ -30,4 +30,4 @@ console.log(a)
 我的网站 [我的官网](https://github.com/account/unverified-email)
 
 我的图片
-![一张图片](C:\Users\86188\Desktop\汽车.png)
+![一张图片](汽车.png)
